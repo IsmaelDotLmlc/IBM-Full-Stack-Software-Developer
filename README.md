@@ -23,4 +23,4 @@ Throughout the courses in the Professional Certificate, you will develop a portf
 - A database-powered application using Django ORM and Bootstrap
 - An app built using Microservices & Serverless
 - A scalable, Cloud Native Full Stack application using the technologies learned in previous courses
-
+-(mini update)
